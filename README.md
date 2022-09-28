@@ -4,6 +4,6 @@ To run this project Cassandra DB is a need https://cassandra.apache.org/_/downlo
 
 Before Running
 1. Find bin folder in Cassandra installation place
-2. Open terminal therse
+2. Open terminal there
 3. type in 'cassandra' to connect
 4. run project
